@@ -1,0 +1,11 @@
+Dadena lista i posle nea element, da se vnese toj element vo listata po prviot element, pa po narednite 2, pa po narednite 3 itn.
+Primer lista 1 2 3 4 5 6 7 8
+Element 9
+Rezultat 1 9 2 3 9 4 5 6 9 7 8
+
+
+9
+1 2 3 4 5 6 7 8 9 10
+4
+
+1 4 2 3 4 4 5 6 4 7 8 9 10 4
